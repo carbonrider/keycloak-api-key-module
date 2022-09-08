@@ -1,0 +1,2 @@
+com\carbonrider\keycloak\spring\filter\KeycloakAPIKeyProcessingFilter.class
+com\carbonrider\keycloak\spring\adapter\KeycloakAPIKeySecurityAdapter.class
