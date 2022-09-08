@@ -9,11 +9,11 @@
     <packaging>jar</packaging>
     <description>Adapter to enable authentication using API key.</description>
 
-    <properties>
-        <java.version>11</java.version>
-        <keycloak.version>11.0.3</keycloak.version>
-        <spring.boot.version>2.4.10</spring.boot.version>
-    </properties>
+    <parent>
+		<groupId>com.carbonrider.keycloak</groupId>
+		<artifactId>keycloak-api-key-module</artifactId>
+		<version>0.1.0-SNAPSHOT</version>
+	</parent>
 
     <dependencyManagement>
         <dependencies>
