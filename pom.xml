@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.carbonrider.keycloak</groupId>
     <artifactId>keycloak-api-key-module</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
     <name>keycloak-api-key-module</name>
     <packaging>pom</packaging>
     <description>Parent module for Keycloak API.</description>
